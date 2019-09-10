@@ -1,0 +1,35 @@
+{
+  "name": "scheduled-messages-cron",
+  "version": "1.0.0",
+  "description": "A cron to send a scheduled messages",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv-safe": "^8.1.0",
+    "puppeteer": "^1.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ana-ac/scheduled-messages-cron.git"
+  },
+  "keywords": [
+    "nodejs",
+    "puppeteer",
+    "scheduled-messages",
+    "js",
+    "esc6",
+    "whatsapp-web",
+    "telegram-web"
+  ],
+  "author": "Ana Arriaga Coll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ana-ac/scheduled-messages-cron/issues"
+  },
+  "homepage": "https://github.com/ana-ac/scheduled-messages-cron#readme"
+}
